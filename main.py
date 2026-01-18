@@ -3,7 +3,7 @@ from keep_alive import keep_alive
 keep_alive()
 
 # ===== IMPORTS =====
-import requests import os, sys, json, time, re, subprocess, signal
+import os, sys, json, time, re, subprocess, signal
 import psutil
 
 from telegram import (
