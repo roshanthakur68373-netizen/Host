@@ -18,7 +18,7 @@ from telegram.request import HTTPXRequest
 from telegram.error import TimedOut
 
 # ===== CONFIG =====
-BOT_TOKEN = os.getenv("BOT_TOKEN") or "PUT_BOT_TOKEN"
+BOT_TOKEN = os.getenv("BOT_TOKEN") or "8153587701:AAG-HtGOuOtIYbeyz3m2p08TU-ygJzcUwJE"
 BOT_DIR = "bots"
 LOG_DIR = "logs"
 PID_FILE = "pids.json"
